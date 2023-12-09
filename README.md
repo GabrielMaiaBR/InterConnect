@@ -1,6 +1,6 @@
 # InterConnect
 
-InterConnectITA é uma aplicação web inovadora desenvolvida para servir de um canal de comunicação empresarial, de maneira segura, rápida e eficiente, com autenticação própria e um forte potencial para inovação tecnológica. Este projeto integra as tecnologias modernas Vue.js e Quasar Framework para a interface do usuário, com backend e serviços de hosting fornecidos pelo Firebase.
+InterConnect é uma aplicação web inovadora desenvolvida para servir de um canal de comunicação empresarial, de maneira segura, rápida e eficiente, com autenticação própria e um forte potencial para inovação tecnológica. Este projeto integra as tecnologias modernas Vue.js e Quasar Framework para a interface do usuário, com backend e serviços de hosting fornecidos pelo Firebase.
 
 ## Tecnologias Utilizadas
 
