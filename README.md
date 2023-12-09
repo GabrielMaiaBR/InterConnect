@@ -1,33 +1,31 @@
-# Quasar App (quasar-project)
+# InterConnectITA
 
-A Quasar Project
+InterConnectITA é uma aplicação web inovadora desenvolvida para servir de um canal de comunicação empresarial, de maneira segura, rápida e eficiente, com autenticação própria e um forte potencial para inovação tecnológica. Este projeto integra as tecnologias modernas Vue.js e Quasar Framework para a interface do usuário, com backend e serviços de hosting fornecidos pelo Firebase.
 
-## Install the dependencies
+## Tecnologias Utilizadas
+
+- **Vue.js**: Framework progressivo para construir interfaces de usuário.
+- **Quasar Framework**: Conjunto de ferramentas de alto desempenho para Vue.js.
+- **Firebase**: Plataforma de desenvolvimento de aplicativos da Google, utilizada para backend, autenticação, banco de dados e hosting.
+
+## Funcionalidades Principais
+
+- Sistema de autenticação via Google
+- Chat em tempo real
+- Gerenciamento de dados
+
+## Configuração do Projeto
+
+Siga estas etapas para configurar o projeto em seu ambiente local:
+
 ```bash
-yarn
-# or
+# Instalar dependências
 npm install
-```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
+# Executar em modo de desenvolvimento com hot-reload
 quasar dev
-```
 
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-
-### Build the app for production
-```bash
+# Construir para produção
 quasar build
-```
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
