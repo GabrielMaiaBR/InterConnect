@@ -28,4 +28,7 @@ quasar dev
 # Construir para produção
 quasar build
 
+# Rodar o front
+npm run dev
+
 
